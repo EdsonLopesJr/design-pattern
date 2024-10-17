@@ -1,5 +1,5 @@
 {
   "code-runner.executorMap": {
-    "typescript": "clear && npx ts-node --files --transpile-only '/home/edson/documents/design-patterns/src/index.ts'"
+    "typescript": "clear && npx ts-node --files --transpile-only"
   }
 }
